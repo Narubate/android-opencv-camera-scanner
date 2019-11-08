@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/narubate/ProjectDev/TCRBank/R-And-D/android-opencv-camera-scanner/openCVLibrary348/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/narubate/ProjectDev/TCRBank/R-And-D/android-opencv-camera-scanner/openCVLibrary348/src/debug/jniLibs"/></dataSet></merger>
